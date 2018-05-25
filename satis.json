@@ -1,0 +1,8 @@
+{
+    "name": "Secret Packages",
+    "homepage": "http://www.idanbean.io",
+    "repositories": [
+        { "type": "vcs", "url": "git@github.com:Lormann/composer_repo.git" }
+    ],
+    "require-all": true
+}
